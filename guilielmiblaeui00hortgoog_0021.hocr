@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./guilielmiblaeui00hortgoog/guilielmiblaeui00hortgoog_0021.png"; bbox 0 0 2666 4469; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 186 156 2246 1072">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 186 156 2246 989">
+     <span class='ocr_line' id='line_1_1' title="bbox 589 156 1971 289; baseline 0.023 -32"><span class='ocrx_word' id='word_1_1' title='bbox 589 187 748 260; x_wconf 89' lang='lat' dir='ltr'>1N</span> <span class='ocrx_word' id='word_1_2' title='bbox 858 156 1971 289; x_wconf 35' lang='lat' dir='ltr'>PRAE‘GRANDEM</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 186 334 2246 488; baseline 0.027 -55"><span class='ocrx_word' id='word_1_3' title='bbox 186 422 190 423; x_wconf 18' lang='lat' dir='ltr'>ff</span> <span class='ocrx_word' id='word_1_4' title='bbox 281 346 1005 452; x_wconf 63' lang='lat' dir='ltr'>sPHAEKAM</span> <span class='ocrx_word' id='word_1_5' title='bbox 1115 334 2246 488; x_wconf 47' lang='lat' dir='ltr'><strong>P‘TOLEMAch-M</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1231 527 1483 634; baseline 0.06 -41"><span class='ocrx_word' id='word_1_6' title='bbox 1231 569 1291 634; x_wconf 68' lang='grc' dir='ltr'><strong>Α</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1416 527 1483 607; x_wconf 16' lang='grc' dir='ltr'>Β).</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 362 713 2182 862; baseline 0.023 -72"><span class='ocrx_word' id='word_1_8' title='bbox 362 713 1411 809; x_wconf 73' lang='grc' dir='ltr'>ονιιιΒιΜο</span> <span class='ocrx_word' id='word_1_9' title='bbox 1507 746 2182 862; x_wconf 72' lang='grc' dir='ltr'>ΒιΑΒν</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 476 903 1473 1072; baseline 0.03 -112"><span class='ocrx_word' id='word_1_10' title='bbox 476 903 479 907; x_wconf 93' lang='grc'><em>·</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 973 906 1473 1072; x_wconf 56' lang='lat' dir='ltr'>confflem</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2008 3974 2156 4072">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2008 3974 2156 4072">
+     <span class='ocr_line' id='line_1_6' title="bbox 2008 3974 2156 4072; baseline 0.007 -1"><span class='ocrx_word' id='word_1_12' title='bbox 2008 3974 2156 4072; x_wconf 48' lang='grc' dir='ltr'>μή</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
